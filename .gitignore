@@ -1,2 +1,137 @@
+# Large Files
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.mpeg
+*.m4v
 
+# 3D model files
+*.obj
+*.blend
 *.blend1
+*.3ds
+*.fbx
+*.stl
+
+# Image files
+# *.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.psd
+*.ai
+*.eps
+*.indd
+*.raw
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+
+# Database files
+*.sql
+*.db
+*.dbf
+*.mdb
+
+# Data files
+*.json
+*.jsonl
+*.csv
+*.tsv
+*.xml
+*.zip
+*.mtl
+
+# Archives
+*.rar
+*.tar
+*.gz
+*.bz2
+*.7z
+*.xz
+
+# Logs and binaries
+*.log
+*.bin
+*.dat
+*.out
+*.pid
+*.dump
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Private files
+*.pem
+*.key
+*.cert
+*.p12
+*.jks
+*.keystore
+*.pkcs12
+
+# IDE and editor files
+*.sublime*
+*.swp
+*.swo
+*.idea/
+.vscode/
+*.project
+*.settings
+*.classpath
+*.c9
+*.komodoproject
+
+# Build and package management files
+node_modules/
+dist/
+*.jar
+*.war
+*.ear
+*.class
+*.iml
+*.o
+*.so
+*.dll
+*.exe
+*.app
+*.dmg
+*.pkg
+*.rpm
+*.deb
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.sik
+*.suo
+*.user
+*.userosscache
+*.compspec
+*.iobj
+*.ipdb
+*.ilk
+*.meta
+*.pch
+*.pbd
+*.pdb
+*.idb
+*.res
+*.sbr
+*.ibc
